@@ -19,3 +19,13 @@ check the url http://localhost:3000/ in the browser
 ### Prerequisites
 
 Login logout workflow server project should be running
+
+### Credentials to be used to login
+
+```
+userName: user1
+password: user@1
+
+userName: user2
+password: user@2
+```
